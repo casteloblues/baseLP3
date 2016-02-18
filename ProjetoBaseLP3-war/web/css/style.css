@@ -1,0 +1,38 @@
+/* 
+    Created on : 16/02/2016, 07:57:47
+    Author     : 1147106
+*/
+
+*{
+    font-family:Arial,Verdana;
+}
+
+
+body{
+    margin: 0;
+}
+
+.topMenu{
+    background-color: #2F3233;
+    color: #fff;
+    text-decoration: none;
+}
+
+.topMenu ul a, .topMenu ul a:active, .topMenu ul a:visited{
+    color:#fff;
+}
+
+.topMenu ul{
+    padding-left: 0;
+    margin:0;
+}
+
+.topMenu ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+}
+
+.topMenu ul li:hover{
+    background-color: #000;
+}
